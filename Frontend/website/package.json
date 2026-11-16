@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^14.6.10",
     "axios": "^1.21.1",
     "nth-check": "^3.0.1",
-    "postcss": "^8.5.32",
+    "postcss": "^8.5.33",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "react-router-dom": "^7.18.5",
